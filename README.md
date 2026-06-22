@@ -85,7 +85,7 @@ The IFWBR is described as a mixed-integer nonlinear program with:
 - **Binary variables** — used **only** for:
   - Tax indicator constraints (whether positive profit is realised in a given year, triggering taxation)
   - Regulatory compatibility constraints
-- **Constraints** — mass balances, conversion stoichiometry, demand limits, C/N ratio bounds for anaerobic digestion, capacity bounds, product demand, and the management-option-selection rule.
+- **Constraints** — mass and energy balances, conversion stoichiometry, demand limits, capacity bounds, product demand, the management-option-selection rule, economic, environmental, and social constraints.
 
 ### 2. Multi-Objective Formulation
 
